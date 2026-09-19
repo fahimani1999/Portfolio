@@ -1,0 +1,2 @@
+This is my Django project name is 'Personal Portfolio' as a webdeveloper it show the projects and skill I have earned in my carrier there still many sites of this website underdevelopment soon you can see many changes in website here.So you can see my project decription of every project to my 'Project' page
+and you can see my github at contact page and. The setup instructions are in the requirment page here
