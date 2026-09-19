@@ -1,0 +1,26 @@
+{% extends 'base.html' %}
+{% load static %}
+
+{% block title %}Home - My Portfolio{% endblock %}
+{% block body_class %}page-home{% endblock %}
+
+{% block content %}
+<section class="skills">
+    <div class="profile">
+        <img src="{% static 'image/profile.PNG' %}" alt="Aninda">
+    </div>
+    <h1>Hi my name is fahim</h1>
+    <h4 >I am a passionate web developer with experience in creating dynamic and responsive websites.</h4>
+    <h2>Skills</h2>
+
+    <div class="skill-container">
+        <div class="skill">JavaScript</div>
+        <div class="skill">Python</div>
+        <div class="skill">Django</div>
+        <div class="skill">C/C++</div>
+    </div>
+</section>
+<footer class="site-footer">
+        <a href="{% url 'my_view3' %}" class="btn">Contact Me</a>
+    </footer>
+{% endblock %}
