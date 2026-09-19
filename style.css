@@ -168,7 +168,7 @@ body.page-detail {
 
     padding: 12px 20px;
 
-    background: #222;
+    background: #0804d6;
     color: white;
 
     text-decoration: none;
@@ -187,7 +187,7 @@ body.page-detail {
 .github-button {
     display: inline-block;
     padding: 10px 16px;
-    background: #24292f;
+    background: #1303a7;
     color: white;
     text-decoration: none;
     border-radius: 5px;
@@ -276,7 +276,7 @@ body.page-detail {
     gap: 25px;
 }
 
-
+/*
 .project-card {
     background: white;
 
@@ -297,7 +297,7 @@ body.page-detail {
     line-height: 1.6;
     margin-bottom: 10px;
 }
-
+*/
 
 /* Details / Pages */
 
