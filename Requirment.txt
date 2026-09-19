@@ -1,2 +1,5 @@
-Django
-Psycopg
+python manage.py startproject portfolio      #start project
+python manage.py startapp myapp  #start app
+pip install psycopg
+python -m pip install  Django     #Django 
+
